@@ -1,0 +1,379 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.magomontii.com" resolutions="1x" timestamp="1519429914093">
+  <folder name="css">
+    <file name="site_global.css" crc="171393636"/>
+    <file name="master_a-master.css" crc="4078769022" ref="portafolio:personal:index:contacto"/>
+    <file name="nomq_preview_master_a-master.css" crc="158523885" ref="portafolio:personal:index:contacto"/>
+    <file name="portafolio.css" crc="522058383" ref="portafolio"/>
+    <file name="nomq_portafolio.css" crc="7613756" ref="portafolio"/>
+    <file name="personal.css" crc="430424728" ref="personal"/>
+    <file name="nomq_personal.css" crc="4283257938" ref="personal"/>
+    <file name="index.css" crc="3944432831" ref="index"/>
+    <file name="nomq_index.css" crc="380606706" ref="index"/>
+    <file name="contacto.css" crc="3882084793" ref="contacto"/>
+    <file name="nomq_contacto.css" crc="102032551" ref="contacto"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:personal:contacto:portafolio"/>
+    <file name="museutils.js" crc="3803043152" ref="index:personal:contacto:portafolio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:personal:contacto:portafolio"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:personal:contacto:portafolio"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:personal:contacto:portafolio"/>
+    <file name="webpro.js" crc="242022427" ref="index:personal:contacto:portafolio"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:personal:contacto:portafolio"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:personal:contacto:portafolio"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:personal:contacto:portafolio"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:personal:contacto:portafolio"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:personal:contacto:portafolio"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:personal:contacto:portafolio"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:personal:contacto:portafolio"/>
+    <file name="require.js" crc="4157109226" ref="index:personal:contacto:portafolio"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="personal:contacto:portafolio"/>
+  </folder>
+  <folder name="images">
+    <file name="mago monti 36.jpg" crc="4009867362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:personal:contacto:portafolio"/>
+    <file name="mago 1.jpg" crc="3762419787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 2.jpg" crc="405353161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="mago 9.jpg" crc="64788094" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 9-u1723-r-fr.png" crc="3951496059" ref="index"/>
+    <file name="mago 5.jpg" crc="4016209007" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 5-u1901-r-fr.png" crc="3894376323" ref="index"/>
+    <file name="mago 6.jpg" crc="289051628" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 6-u1883-r-fr.png" crc="213140940" ref="index"/>
+    <file name="mago 4.jpg" crc="4271125431" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 4-u1949-r-fr.png" crc="53334486" ref="index"/>
+    <file name="mago 7.jpg" crc="286812805" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 7-u1977-r-fr.png" crc="480166290" ref="index"/>
+    <file name="mago 10.jpg" crc="490971469" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 10-u1996-r-fr.png" crc="157166338" ref="index"/>
+    <file name="mago 8.jpg" crc="292932398" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mago 9-u1723-r-fr2.png" crc="3951496059" ref="index"/>
+    <file name="mago 4-u1949-r-fr2.png" crc="53334486" ref="index"/>
+    <file name="mago 7-u1977-r-fr2.png" crc="480166290" ref="index"/>
+    <file name="mago 10-u1996-r-fr2.png" crc="157166338" ref="index"/>
+    <file name="u6900.png" crc="35966194" ref="index:personal:contacto:portafolio"/>
+    <file name="u6900-r.png" crc="35966194" ref="index:personal:contacto:portafolio"/>
+    <file name="u6900-a.png" crc="35966194" ref="index:personal:contacto:portafolio"/>
+    <file name="mago 9-u1723-fr.jpg" crc="4027736001" ref="index"/>
+    <file name="mago 9-u1723-r-fr3.png" crc="356427860" ref="index"/>
+    <file name="mago 4-u1949-fr.jpg" crc="4130849521" ref="index"/>
+    <file name="mago 4-u1949-r-fr3.png" crc="297878197" ref="index"/>
+    <file name="mago 7-u1977-fr.jpg" crc="166023825" ref="index"/>
+    <file name="mago 7-u1977-r-fr3.png" crc="4160461654" ref="index"/>
+    <file name="mago 10-u1996-fr.jpg" crc="3778897498" ref="index"/>
+    <file name="mago 10-u1996-r-fr3.png" crc="3981163859" ref="index"/>
+    <file name="mago 8-u2036-fr.jpg" crc="3904187722" ref="index"/>
+    <file name="mago 21.jpg" crc="530951327" ref="personal">
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="mago 22-u2329-fr.jpg" crc="3794026686" ref="personal"/>
+    <file name="witch-cauldron (1).png" crc="4188884502" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="crystal-ball (1).png" crc="482732140" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="magic-wand-auto-fix-button (1).png" crc="4259481330" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="rabbit-in-the-hat (1).png" crc="62018800" seo="true" ref="personal">
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="mago15-u3088-fr.jpg" crc="279668964" ref="personal"/>
+    <file name="mago13-u3099-fr.jpg" crc="418578841" ref="personal"/>
+    <file name="mago14-u3102-fr.jpg" crc="530539611" ref="personal"/>
+    <file name="mago 11-u3105-fr.jpg" crc="3929185504" ref="personal"/>
+    <file name="mago 22-u2329-fr2.jpg" crc="503367061" ref="personal"/>
+    <file name="mago15-u3088-fr2.jpg" crc="3986983907" ref="personal"/>
+    <file name="mago14-u3102-fr2.jpg" crc="395055520" ref="personal"/>
+    <file name="mago13-u3099-fr2.jpg" crc="3767441570" ref="personal"/>
+    <file name="mago 11-u3105-fr2.jpg" crc="387089703" ref="personal"/>
+    <file name="mago 22-u2329-fr3.jpg" crc="3790989236" ref="personal"/>
+    <file name="mago 11-u3105-fr3.jpg" crc="4094965802" ref="personal"/>
+    <file name="mago 21-u2202-fr.jpg" crc="3896085075" ref="personal"/>
+    <file name="mago 22-u2329-fr4.jpg" crc="101751083" ref="personal"/>
+    <file name="mago15-u3088-fr3.jpg" crc="21472791" ref="personal"/>
+    <file name="mago14-u3102-fr3.jpg" crc="4215950394" ref="personal"/>
+    <file name="mago13-u3099-fr3.jpg" crc="4206782236" ref="personal"/>
+    <file name="mago 11-u3105-fr4.jpg" crc="4179504300" ref="personal"/>
+    <file name="mago 21-u2202-fr2.jpg" crc="4172579261" ref="personal"/>
+    <file name="mago 22-u2329-fr5.jpg" crc="4086791109" ref="personal"/>
+    <file name="mago15-u3088-fr4.jpg" crc="8378037" ref="personal"/>
+    <file name="mago14-u3102-fr4.jpg" crc="166511507" ref="personal"/>
+    <file name="mago13-u3099-fr4.jpg" crc="4018267269" ref="personal"/>
+    <file name="mago 11-u3105-fr5.jpg" crc="485084481" ref="personal"/>
+    <file name="mago 21-u2202-fr3.jpg" crc="4114947583" ref="personal"/>
+    <file name="mago 22-u2329-fr6.jpg" crc="3899949365" ref="personal"/>
+    <file name="mago13.jpg" crc="4076058248" ref="personal">
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="mago 11.jpg" crc="3907119456" ref="personal">
+      <caption webpage="personal" alt=""/>
+    </file>
+    <file name="mago14-u3102-fr5.jpg" crc="343809619" ref="personal"/>
+    <file name="mago15-u3088-fr5.jpg" crc="3778090336" ref="personal"/>
+    <file name="mago 33.jpg" crc="254307961" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="magic-broom.png" crc="416326041" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="magician-image-silhouette.png" crc="3955541484" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="magician-hat-and-magic-wand.png" crc="3939096278" seo="true" ref="contacto">
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="contacto" alt=""/>
+    </file>
+    <file name="mago 33-u5089-fr.jpg" crc="55960127" ref="contacto"/>
+    <file name="mago 33-u5089-fr2.jpg" crc="4029824355" ref="contacto"/>
+    <file name="mago 33-u5089-fr3.jpg" crc="182936879" ref="contacto"/>
+    <file name="mago 31.jpg" crc="376531887" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 25.jpg" crc="3767987920" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 25-u3349-r-fr.png" crc="4079900301" ref="portafolio"/>
+    <file name="mago 24.jpg" crc="4085103490" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 24-u3330-r-fr.png" crc="370542578" ref="portafolio"/>
+    <file name="mago 23.jpg" crc="283697230" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 23-u3344-r-fr.png" crc="3953305185" ref="portafolio"/>
+    <file name="mago 26.jpg" crc="4162076573" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 26-u3334-r-fr.png" crc="3945474697" ref="portafolio"/>
+    <file name="mago 27.jpg" crc="80956918" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 27-u3338-r-fr.png" crc="3849886795" ref="portafolio"/>
+    <file name="mago 28.jpg" crc="4193571270" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 28-u3342-r-fr.png" crc="488827354" ref="portafolio"/>
+    <file name="mago 29.jpg" crc="303241921" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 29-u3461-r-fr.png" crc="3803542072" ref="portafolio"/>
+    <file name="mago 30.jpg" crc="3922211769" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 30-u3472-r-fr.png" crc="2264780" ref="portafolio"/>
+    <file name="mago 40.jpg" crc="3802888612" ref="portafolio">
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+      <caption webpage="portafolio" alt=""/>
+    </file>
+    <file name="mago 40-u3486-r-fr.png" crc="16454941" ref="portafolio"/>
+    <file name="mago 25-u3349-fr.jpg" crc="4146244522" ref="portafolio"/>
+    <file name="mago 25-u3349-r-fr2.png" crc="3798590602" ref="portafolio"/>
+    <file name="mago 24-u3330-fr.jpg" crc="145836845" ref="portafolio"/>
+    <file name="mago 24-u3330-r-fr2.png" crc="54036798" ref="portafolio"/>
+    <file name="mago 23-u3344-fr.jpg" crc="3945101604" ref="portafolio"/>
+    <file name="mago 23-u3344-r-fr2.png" crc="4039271825" ref="portafolio"/>
+    <file name="mago 26-u3334-fr.jpg" crc="3898388972" ref="portafolio"/>
+    <file name="mago 26-u3334-r-fr2.png" crc="3795565240" ref="portafolio"/>
+    <file name="mago 27-u3338-fr.jpg" crc="4162579726" ref="portafolio"/>
+    <file name="mago 27-u3338-r-fr2.png" crc="489820475" ref="portafolio"/>
+    <file name="mago 28-u3342-fr.jpg" crc="3917255205" ref="portafolio"/>
+    <file name="mago 28-u3342-r-fr2.png" crc="4265924910" ref="portafolio"/>
+    <file name="mago 29-u3461-fr.jpg" crc="3983512305" ref="portafolio"/>
+    <file name="mago 29-u3461-r-fr2.png" crc="527379243" ref="portafolio"/>
+    <file name="mago 30-u3472-fr.jpg" crc="145291055" ref="portafolio"/>
+    <file name="mago 30-u3472-r-fr2.png" crc="306501569" ref="portafolio"/>
+    <file name="mago 40-u3486-fr.jpg" crc="3833062573" ref="portafolio"/>
+    <file name="mago 40-u3486-r-fr2.png" crc="3891537081" ref="portafolio"/>
+    <file name="mago 25-u3349-fr2.jpg" crc="4278926760" ref="portafolio"/>
+    <file name="mago 25-u3349-r-fr3.png" crc="4115850977" ref="portafolio"/>
+    <file name="mago 24-u3330-fr2.jpg" crc="29825321" ref="portafolio"/>
+    <file name="mago 24-u3330-r-fr3.png" crc="4085339494" ref="portafolio"/>
+    <file name="mago 23-u3344-fr2.jpg" crc="322346165" ref="portafolio"/>
+    <file name="mago 23-u3344-r-fr3.png" crc="95271033" ref="portafolio"/>
+    <file name="mago 26-u3334-fr2.jpg" crc="135955888" ref="portafolio"/>
+    <file name="mago 26-u3334-r-fr3.png" crc="4232371262" ref="portafolio"/>
+    <file name="mago 27-u3338-fr2.jpg" crc="441643993" ref="portafolio"/>
+    <file name="mago 27-u3338-r-fr3.png" crc="523497635" ref="portafolio"/>
+    <file name="mago 28-u3342-fr2.jpg" crc="4236692602" ref="portafolio"/>
+    <file name="mago 28-u3342-r-fr3.png" crc="262259391" ref="portafolio"/>
+    <file name="mago 29-u3461-fr2.jpg" crc="4153418326" ref="portafolio"/>
+    <file name="mago 29-u3461-r-fr3.png" crc="4111051663" ref="portafolio"/>
+    <file name="mago 30-u3472-fr2.jpg" crc="59279965" ref="portafolio"/>
+    <file name="mago 30-u3472-r-fr3.png" crc="36791182" ref="portafolio"/>
+    <file name="mago 40-u3486-fr2.jpg" crc="4107447204" ref="portafolio"/>
+    <file name="mago 40-u3486-r-fr3.png" crc="4101116376" ref="portafolio"/>
+  </folder>
+  <file name="index.html" crc="207077183" seo="true" mt="1519429590940" redirect="true"/>
+  <file name="personal.html" crc="34383462" seo="true" mt="1519429590940" redirect="true"/>
+  <file name="contacto.html" crc="432163722" seo="true" mt="1519429591004" redirect="true"/>
+  <file name="portafolio.html" crc="4049746159" seo="true" mt="1519429590940" redirect="true"/>
+</manifest>
